@@ -1,0 +1,9 @@
+ACTIVIDAD 1
+- Elaborar un informe desarrollado en latex o en el sitio de overleaf.
+- Seguir las pautas y estructuras propias de un informe.
+- Según los videos de Alberto Cairo, escriba tres enseñanzas dejadas.
+- Buscar dos ejemplos de visualización engañosa en Argentina y proponer que cambios haría para mejorarla.
+- Buscar dos ejemplos de buena visualización de Argentina.
+- Partiendo de lo visto hasta el momento en las clases, buscar una fuente de datos de Argentina (CSV, TXT, API, etc.) y realizar un gráfico en código R con esa información.
+- Realizar una presentación del trabajo y mostrar el código R utilizado, con participación de cada integrante.
+- Todo el material utilizado debe estar en el repositorio del grupo.
